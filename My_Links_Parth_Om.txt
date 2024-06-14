@@ -1,4 +1,5 @@
-https://anushsom.medium.com/finetuning-paddleocrs-recognition-model-for-dummies-by-a-dummy-89ac7d7edcf6
+https://anushsom.medium.com/finetuning-paddleocrs-recognition-model-for-dummies-by-a-dummy-89ac7d7edcf6  
+      python gen_label.py --mode="rec" —input_path={path to csv file} —output_label=(folder to output txt.file}
 
 https://github.com/PaddlePaddle/PaddleOCR/blob/main/configs/rec/PP-OCRv3/ch_PP-OCRv3_rec.yml
 
